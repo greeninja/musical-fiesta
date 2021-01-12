@@ -71,7 +71,7 @@ var APP_DATA = {
           "yaw": 2.398849073509128,
           "pitch": 0.5616591045677968,
           "rotation": 0,
-          "target": "7-hallway"
+          "target": "9-landing"
         }
       ],
       "infoHotspots": []
@@ -109,7 +109,7 @@ var APP_DATA = {
           "yaw": 2.433024185148917,
           "pitch": 0.45041042256178443,
           "rotation": 0,
-          "target": "7-hallway"
+          "target": "9-landing"
         }
       ],
       "infoHotspots": []
@@ -147,7 +147,7 @@ var APP_DATA = {
           "yaw": -2.3506023056043652,
           "pitch": 0.37618556065925013,
           "rotation": 0,
-          "target": "7-hallway"
+          "target": "9-landing"
         }
       ],
       "infoHotspots": []
@@ -214,14 +214,14 @@ var APP_DATA = {
       ],
       "faceSize": 1936,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
+        "yaw": 2.9504887976932856,
+        "pitch": 0.532561502472042,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 2.899636471042144,
-          "pitch": 0.36094726990124926,
+          "yaw": 2.8656625417151247,
+          "pitch": 0.3714125469582328,
           "rotation": 0,
           "target": "6-garden"
         },
